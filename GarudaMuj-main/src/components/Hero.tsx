@@ -48,8 +48,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl text-gray-400 leading-relaxed drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)]">
-            A vibrant community of developers, designers, and tech enthusiasts building the future together.
-            Join us to learn, create, and innovate.
+          Where cultural expression takes center stage and technology provides the canvas. Join us to celebrate our heritage and innovate with a community that feels like family.
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">

@@ -3,7 +3,7 @@ import { Github, Twitter, Linkedin, Instagram, Mail, Code2, Heart } from 'lucide
 
 const socialLinks = [
   { icon: Linkedin, href: 'https://www.linkedin.com/company/club-garuda-official/', label: 'LinkedIn', color: 'hover:text-blue-500' },
-  { icon: Instagram, href: 'https://www.instagram.com/garudamujofficial?igsh=MWNwbm81eGdodXhveA==', label: 'Instagram', color: 'hover:text-fuchsia-400' },
+  { icon: Instagram, href: 'https://www.instagram.com/garudamujofficial/', label: 'Instagram', color: 'hover:text-fuchsia-400' },
   { icon: Mail, href: 'mailto:garuda.club@muj.manipal.edu', label: 'Email', color: 'hover:text-brand-accent' },
 ];
 
