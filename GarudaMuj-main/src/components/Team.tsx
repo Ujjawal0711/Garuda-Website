@@ -12,7 +12,7 @@ const gridMembers = [
   { name: 'Kushagrah', role: 'General Secretary', img: '/Kushagrah.png' },
   { name: 'Rashiv Saran', role: 'Creative director', img: '/Rashiv.png' },
   { name: 'Harshvardhan Singh', role: 'Operational Director', img: '/harsh.png' },
-  { name: 'Aditya Chauhan', role: 'Curational Director', img: '/Aditya.png' },
+  { name: 'Aditya Chauhan', role: 'Curations Director', img: '/Aditya.png' },
   { name: 'Inesh Goyal', role: 'Technical Secretary', img: '/Ineesh.jpeg' },
   { name: 'Reet Bhanushali', role: 'Cultural Secretary', img: '/Reet.png' },
   { name: 'Shaurya Sharma', role: 'Treasurer', img: '/Shaurya.png' },
