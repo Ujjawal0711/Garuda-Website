@@ -30,7 +30,7 @@ const features = [
   },
   {
     icon: PartyPopper,
-    title: '4. Flagship Events & Mega Fests',
+    title: 'Flagship Events & Mega Fests',
     description: '🎉 From techno-cultural festivals to themed competitions, Garuda creates high-impact events that unite colleges and communities.',
     gradient: 'from-yellow-500 to-orange-500',
   },
