@@ -101,7 +101,7 @@ export default function Footer() {
             <div className="flex gap-6">
            
             <a 
-  href="/CLUB GARUDA BY-LAWS.pdf" 
+  href="/club-garuda-by-laws.pdf" 
   target="_blank" 
   rel="noopener noreferrer"
   className="text-gray-400 hover:text-brand-primary text-sm transition-all drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] flex items-center gap-2"
