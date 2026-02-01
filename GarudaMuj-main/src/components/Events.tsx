@@ -112,14 +112,14 @@ const events = [
   {
     title: 'Next Big Event',
     date: 'TBD',
-    crowd: 'Expected 1000+',
+    crowd: 'Expected 5000+',
     location: 'MUJ Campus',
     color: 'from-cyan-500 to-brand-primary',
     status: 'Upcoming',
     description: 'Stay tuned for our next high-energy tech gathering!',
     icon: PartyPopper,
     isUpcoming: true,
-    images: ['https://picsum.photos/600/400?random=4']
+    images: []
   }
 ];
 
